@@ -11,9 +11,9 @@
 
 
     /*
-    * Pruebas
-    *
-    */
+    * Metodo de prueba
+    */  
+
 
     @Path("/ConversionService")
     public class FeetToInchAndInchToFeetConversionService {
